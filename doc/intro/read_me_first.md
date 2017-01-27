@@ -1,7 +1,6 @@
 ## READ ME FIRST
 
 
-
 **Kazoo** is a sophisticated piece of software that allows for large-scale clustering across a WAN. While it is intended to be simple, at times, it can have a high learning curve.
 
 
