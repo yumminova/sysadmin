@@ -1,1 +1,0 @@
-## Installing via Cluster Manager
